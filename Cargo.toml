@@ -1,0 +1,7 @@
+[package]
+name = "curso"
+version = "0.1.0"
+authors = ["Kaueh Moreno <kaueh.rodrigues@corp.globo.com>"]
+edition = "2018"
+
+[dependencies]
